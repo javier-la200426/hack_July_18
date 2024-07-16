@@ -2,7 +2,7 @@
 
 # 🐍📜 PyScript with GitHub Codespaces and Copilot
 <details>
-   <summary><b>🎥 To learn more about Codespaces, watch our video tutorial series</b></summary>
+   <summary><b>🎥 To learn more about Codespaces, watch this video tutorial series</b></summary>
 
    [![Codespaces Tutorial](https://img.youtube.com/vi/ozuDPmcC1io/0.jpg)](https://aka.ms/CodespacesVideoTutorial "Codespaces Tutorial")
 </details>
