@@ -1,12 +1,6 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=816765904)
 
 # 🐍📜 PyScript with GitHub Codespaces and Copilot
-
-## About this PyScript template
-
-This template includes the minimal viable PyScript application, from which you
-can build.
-
 <details>
    <summary><b>🎥 To learn more about Codespaces, watch our video tutorial series</b></summary>
 
@@ -14,10 +8,6 @@ can build.
 </details>
 
 ## 🗃️ PyScript template
-
-This repo is a GitHub template to build a PyScript web application. The goal is
-to give you a template that you can immediately utilize to create your own
-PyScript website through Codespaces.
 
 The repo contains the following:
 
@@ -46,8 +36,3 @@ Your development environment is all set for you to start.
 * Visual Studio Code with the [Python plugin](https://code.visualstudio.com/docs/languages/python) enabled.
 * The [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) plugin (so you can view your site).
 * GitHub [copilot support](https://github.com/features/copilot) (if you have it enabled for your account).
-
-> 🤩 **Bonus**: [Setup a custom domain for your Azure Static Web App](https://learn.microsoft.com/en-us/shows/azure-tips-and-tricks-static-web-apps/how-to-set-up-a-custom-domain-name-in-azure-static-web-apps-10-of-16--azure-tips-and-tricks-static-w/?WT.mc_id=academic-79839-sagibbon)
-
-## 🔎 Found an issue or have an idea for improvement?
-Help us make this template repository better by [letting us know and opening an issue!](/../../issues/new).
