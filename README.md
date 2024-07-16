@@ -8,6 +8,7 @@
 </details>
 
 ## 🗃️ PyScript template
+Create, customize and deploy your own PyScript website in minutes. ✨
 
 The repo contains the following:
 
