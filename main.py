@@ -49,7 +49,7 @@ button_2_python = document.getElementById('my_button2_id') #gets button from htm
 button_2_python.onclick = way_2_print #calls function 'way_2_print' when button is clicked
 
 '''
-**************************************Your Function below*************************************************
+**************************************Your Function below (USE 2ND WAY)*************************************************
 
 '''
 def your_function_here(event):
