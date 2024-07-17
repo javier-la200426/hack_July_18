@@ -6,6 +6,7 @@
 </p>
 
 INSTRUCTIONS:
+<br>
 ->GO BACK TO NOTION AND KEEP READING TO LOAD VS-CODE
 
 Description:
