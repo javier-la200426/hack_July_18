@@ -9,7 +9,7 @@ INSTRUCTIONS:
 <br>
 ->GO BACK TO NOTION AND KEEP READING TO LOAD VS-CODE
 
-Description:
+## 🚀 Description:
 <br>
 You can create, customize and deploy your own PyScript website in minutes. ✨
 The repo contains the following:
@@ -29,7 +29,6 @@ The repo contains the following:
   to ensure all PyScript's features are available.
 * `README.md`: this file (that you're reading right now).
 
-## 🚀 Environment
 
 This PyScript project contains everything you need so that you can immediately
 open Codespaces, see it running, and deploy at any point.
