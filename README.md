@@ -1,12 +1,13 @@
 # 🐍📜 PyScript with GitHub Codespaces and Copilot
 
-## 🗃️ INSTRUCTIONS:
+## 🗃️ **INSTRUCTIONS:
 <br>
 ->GO BACK TO NOTION AND KEEP READING TO LOAD VS-CODE
 
 <br>
 <p>
-   ***TO RUN CODE, PRESS THIS button: <img src="run-code-codespace.png" alt="Where to click" width="500" height="60">
+   ***TO RUN CODE, PRESS THIS: <img src="run-code-codespace.png" alt="Where to click" width="500" height="60">
+  (you will be able to do this only after you load vs-code by following the notion instructions)
 </p>
 
 ## 🚀 Description:
