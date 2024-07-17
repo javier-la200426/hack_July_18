@@ -4,8 +4,12 @@
 <p>
    ***TO RUN CODE, PRESS THIS button: <img src="run-code-codespace.png" alt="Where to click" width="500" height="60">
 </p>
-Create, customize and deploy your own PyScript website in minutes. ✨
 
+INSTRUCTIONS:
+->GO BACK TO NOTION AND KEEP READING TO LOAD VS-CODE
+
+Description:
+You can create, customize and deploy your own PyScript website in minutes. ✨
 The repo contains the following:
 
 * `.devcontainer/devcontainer.json`: Configuration file used by Codespaces to
