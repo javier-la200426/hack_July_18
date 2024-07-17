@@ -10,7 +10,7 @@
   <br>
   (you will only be able to do this after you load vs-code by following the notion instructions)
 </p>
-<br><br><br><br><br><br>
+<br><br>
 
 ## 🚀 Description (optional read):
 <br>
