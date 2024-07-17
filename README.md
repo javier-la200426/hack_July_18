@@ -11,7 +11,7 @@
   (you will only be able to do this after you load vs-code by following the notion instructions)
 </p>
 
-## 🚀 Description:
+## 🚀 Description (optional read):
 <br>
 You can create, customize and deploy your own PyScript website in minutes. ✨
 The repo contains the following:
