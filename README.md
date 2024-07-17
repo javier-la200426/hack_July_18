@@ -2,7 +2,7 @@
 
 ## 🗃️ PyScript template
 <p>
-   TO RUN CODE, press this button: <img src="run-code-codespace.png" alt="Where to click" width="500" height="60">
+   ***TO RUN CODE, PRESS THIS button: <img src="run-code-codespace.png" alt="Where to click" width="500" height="60">
 </p>
 Create, customize and deploy your own PyScript website in minutes. ✨
 
