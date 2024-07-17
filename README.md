@@ -7,6 +7,7 @@
 <br>
 <p>
    ***TO RUN CODE, PRESS THIS: <img src="run-code-codespace.png" alt="Where to click" width="500" height="60">
+  <br>
   (you will be able to do this only after you load vs-code by following the notion instructions)
 </p>
 
