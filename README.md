@@ -1,11 +1,9 @@
 # 🐍📜 PyScript with GitHub Codespaces and Copilot
-<details>
-   <summary><b>🎥 To learn more about Codespaces, watch this video tutorial series</b></summary>
-
-   [![Codespaces Tutorial](https://img.youtube.com/vi/ozuDPmcC1io/0.jpg)](https://aka.ms/CodespacesVideoTutorial "Codespaces Tutorial")
-</details>
 
 ## 🗃️ PyScript template
+<p>
+   TO RUN CODE, press this button: <img src="" alt="Where to click" width="500" height="600">
+</p>
 Create, customize and deploy your own PyScript website in minutes. ✨
 
 The repo contains the following:
